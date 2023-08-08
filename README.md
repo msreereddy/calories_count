@@ -1,4 +1,3 @@
-Introduction
 A calorie is a measure of energy expenditure and stored energy. The calories referred to in diet (calories eaten) and exercise (calories burned) are kilocalories (kcal). One kilocalorie is equal to the amount of heat that will raise the
 temperature of one kilogram of water by one degree Celsius at sea level. One
 kilocalorie is equal to 4186.8 joules and 1000 calories (small calories) as
@@ -27,3 +26,32 @@ will help you to burn more calories. Fitness monitors and pedometers often estim
 weight, number of steps taken, speed, pace, and intensity. It is generally more
 accurate if the exercise intensity is measured by the heart rate during exercise. You may use hand grip pulse monitors on a treadmill or elliptical trainer for a
 more accurate estimate.
+
+Problem Statement
+
+
+There are several major health problems in society today and Obesity is one of the
+main issues. It has increased for nearly three times as much compared to in year
+1975. In 2021, 39 percent of the adults who are aged 18 years old and above were
+overweight, and 13 percent of them were obese (WHO, 2021). It is associated
+with diseases like cardiovascular, hypertension and also menstrual problems. Over time, people have been become more conscious about their diet and
+attempted to have calories control over the years. People have better self- conscious in taking care of these issues and eat healthier with a proper diet plan. Calories burnt is a common technique used to calculate their energy taken from
+one’s workout and food consumption. Many are used for the purpose of losing, gaining, and maintaining weight. In the past, people have been using traditional
+ways in how many calories burnt where they estimate the portion of their meals, workout hours and then do a look up for the number of calories in the calories
+listing book. Here in this project, we will be proposing a solution for how to
+predict the calories burnt for every workout and several things done.
+
+In our Project we are having 2 datasets named as Train and Test datasets. In train
+dataset we are having 9 attributes i.e, 1. id: a unique id
+2. Gender: Male / Female
+3. Age: Age in years ranging from (20-65)
+4. Heigh: in cm
+5. weight: in kgs
+6. Duration: minutes
+7. Heart Rate: beats per minute
+8. Body Temp: Degrees C
+9. Calories: number of calories burned with 10000 unique values. In test dataset we are having 8 attributes i.e, User ID. Gender(M/F). Age. Height. Weight. Duration. Heart rate. Body temperature. with 4000 unique values
+https://www.kaggle.com/fmendes/fmendesdat263xdemos
+
+![image](https://github.com/msreereddy/calories_count/assets/89194445/7cf86b08-dad7-4e7e-9e6e-1eeeb7ab0d1f)
+
