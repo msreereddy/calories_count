@@ -1,3 +1,5 @@
+Introduction
+
 A calorie is a measure of energy expenditure and stored energy. The calories referred to in diet (calories eaten) and exercise (calories burned) are kilocalories (kcal). One kilocalorie is equal to the amount of heat that will raise the
 temperature of one kilogram of water by one degree Celsius at sea level. One
 kilocalorie is equal to 4186.8 joules and 1000 calories (small calories) as
